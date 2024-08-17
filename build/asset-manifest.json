@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93f302f4.css",
+    "main.js": "/static/js/main.7730b644.js",
+    "static/js/453.0a36081d.chunk.js": "/static/js/453.0a36081d.chunk.js",
+    "static/media/Photoroom-20240815_101351.png": "/static/media/Photoroom-20240815_101351.1b7858d7293062f07f61.png",
+    "static/media/banner9.jpg": "/static/media/banner9.7a3935e82c3f71be543d.jpg",
+    "static/media/banner8.jpg": "/static/media/banner8.0b7b88a86864f6dca3e5.jpg",
+    "static/media/banner7.jpg": "/static/media/banner7.9852b3a208459387258e.jpg",
+    "static/media/online-shopping.png": "/static/media/online-shopping.e2d6dfb6159f014f6527.png",
+    "static/media/furniture_img7.jpg": "/static/media/furniture_img7.00e42ee8d750bbb09eb6.jpg",
+    "static/media/furniture_img5.jpg": "/static/media/furniture_img5.17221c109a1bf1316ff2.jpg",
+    "static/media/furniture_img4.jpg": "/static/media/furniture_img4.19367232c1c72a4f11d3.jpg",
+    "static/media/furniture_img2.jpg": "/static/media/furniture_img2.ab852a8f4f43f080190c.jpg",
+    "static/media/furniture_img3.jpg": "/static/media/furniture_img3.15cc9a2365a7f1c340ab.jpg",
+    "static/media/furniture_img6.jpg": "/static/media/furniture_img6.2d33e592cdacfbd45543.jpg",
+    "static/media/furniture_img8.jpg": "/static/media/furniture_img8.0c1160c9b746f6535775.jpg",
+    "index.html": "/index.html",
+    "main.93f302f4.css.map": "/static/css/main.93f302f4.css.map",
+    "main.7730b644.js.map": "/static/js/main.7730b644.js.map",
+    "453.0a36081d.chunk.js.map": "/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f302f4.css",
+    "static/js/main.7730b644.js"
+  ]
+}
